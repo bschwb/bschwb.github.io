@@ -44,3 +44,11 @@ And here is the poem:
     and "so should you"
     :life is (not :a))} :s))})))print)
     "remember that too")
+
+---------------------------------
+
+The program prints in an endless loop:
+
+    keep going
+    keep going
+    keep going
